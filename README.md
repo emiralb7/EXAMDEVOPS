@@ -40,5 +40,5 @@ This has been built with the version 18.18 of Node JS
 ### Exam information - to be completed
 - Student (Lastname and Firstname) : Albayrak Emir
 - Azure repository URL :
-- Azure Static Web app URL : 
+- Azure Static Web app URL : https://github.com/emiralb7/EXAMDEVOPS.git
 # EXAMDEVOPS
